@@ -1,0 +1,13 @@
+.popular{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.popular img{
+    border: 1px solid #28BF7B;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 2px;
+}

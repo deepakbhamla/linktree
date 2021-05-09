@@ -1,0 +1,70 @@
+.container {
+    text-align: center;
+    align-content: center;
+    background: linear-gradient(#e66465, #9198e5);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+      
+  }
+  
+  .avatar {
+    height: 96px;
+    width: 96px;
+    margin-top: 40px;
+    border-radius: 50%;
+    object-fit: contain;
+    object-position: initial;
+    filter: none;
+  }
+  
+  .name {
+      margin-top: 6px;
+      color: rgb(255, 255, 255);
+      font-weight: 700;
+      font-size: 16px;
+      line-height: 1.5;
+      text-overflow: ellipsis;
+      max-width: 100%;
+      white-space: nowrap;
+      overflow: hidden;
+  }
+  
+  .social-profile {
+     
+      margin: 40px;
+  }
+  
+  .btn {
+      overflow-wrap: break-word;
+      word-break: break-word;
+      hyphens: auto;
+      white-space: normal;
+      background: none;
+      color: inherit;
+      transition: box-shadow 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99) 0s, border-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99) 0s, transform 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99) 0s, background-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99) 0s;
+      font-size: 16px;
+      color:#FFFFFF;
+      margin: 10px;
+      padding: 18px;
+      margin-left: 10px;
+      border:white 2px solid;
+      cursor: pointer; 
+      width: 55%;
+      
+  
+  
+      
+      @media screen and (max-width: 900px) {
+          width: 90%;
+      }
+  }
+  .btn:hover {
+      color: black;
+      background-color: white;
+  }
+  
+  .logo {
+      padding: 23px;
+      
+  }

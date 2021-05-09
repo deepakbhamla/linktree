@@ -1,0 +1,21 @@
+.user {
+    margin-top: 80px;
+    margin-bottom: 6px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.username {
+    text-decoration: none;
+    color: black;
+    font-size: medium;
+    margin-top: 0%;
+}
+
+#background-video{
+    height: 100%;
+    width: 100%;
+    top: 0;
+    padding: none;
+    position: fixed; /* optional depending on what you want to do in your app */
+}

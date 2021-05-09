@@ -1,0 +1,9 @@
+.header{
+    background-color: #fff;
+    color: #28BF7B;
+}
+.inner-header{
+    padding:10px 80px;
+    border-bottom: 1px solid lightgrey;
+}
+

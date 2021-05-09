@@ -1,0 +1,61 @@
+export const userdata = [
+    {
+        "id":1,
+        "first_name":"Kamal",
+        "last_name":"Rathi",
+        "email":"kamalrathi0047@gmail.com",
+        "gender":"Male",
+        "avatar":"https://avatars.githubusercontent.com/u/73382877?v=4", 
+        "github_username":"kamalrathi49", 
+        "facebook_username":"kamalrathi",
+        "instagram_username":"kamalrathi",
+        "twitter_username":"kamalrathi",
+        "linkedin_username":"kamalrathi",
+        "whatsapp_number":"kamalrathi"
+    },
+    {
+        "id":2,
+        "first_name":"Deepak",
+        "last_name":"Bhamla",
+        "email":"dbhamla7@gmail.com",
+        "gender":"Male",
+        "avatar":"https://avatars.githubusercontent.com/u/57827083?v=4", 
+        "github_username":"deepakbhamla", 
+        "facebook_username":"deepak_bhamla",
+        "instagram_username":"deepak_bhamla",
+        "twitter_username":"dbhamla7",
+        "linkedin_username":"deepakbhamla",
+        "whatsapp_number":"9090911111"
+    },
+    {
+        "id":3,
+        "first_name":"Unknown",
+        "last_name":"Bhamla",
+        "email":"dbhamla7@gmail.com",
+        "gender":"Male",
+        "avatar":"https://avatars.githubusercontent.com/u/5782702?v=4", 
+        "github_username":"deepakbhamla", 
+        "facebook_username":"deepak_bhamla",
+        "instagram_username":"deepak_bhamla",
+        "twitter_username":"dbhamla7",
+        "linkedin_username":"deepakbhamla",
+        "whatsapp_number":"9090911111"
+    },
+    {
+        "id":4,
+        "first_name":"Harsh",
+        "last_name":"Vidya",
+        "email":"dbhamla7@gmail.com",
+        "gender":"Male",
+        "avatar":"https://avatars.githubusercontent.com/u/5782777?v=4", 
+        "github_username":"deepakbhamla", 
+        "facebook_username":"deepak_bhamla",
+        "instagram_username":"deepak_bhamla",
+        "twitter_username":"dbhamla7",
+        "linkedin_username":"deepakbhamla",
+        "whatsapp_number":"9090911111"
+    }
+
+]
+
+export default userdata
